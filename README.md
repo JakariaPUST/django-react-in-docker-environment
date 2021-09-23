@@ -23,14 +23,13 @@ Docker is a platform for building, running, shipping applications in a consisten
 
 #### Technologies
 
-- Docker
-- Django
-- Django Rest Framework
-- React
-- Redux
-- Typescript
-- Chart js
-- MySQL
+- [Docker](https://www.docker.com/)
+- [Django-Rest-Framework](https://www.django-rest-framework.org/)
+- [Django](https://www.djangoproject.com/)
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Chart-js](https://www.chartjs.org/)
+- [MySQL](https://www.mysql.com/)
 
 ---
 
@@ -43,7 +42,7 @@ Docker is a platform for building, running, shipping applications in a consisten
 #### API Reference
 
 ```html
-    <p>dummy code</p>
+    <p> https://127.0.0.1:8000</p>
 ```
 
 ---
@@ -51,6 +50,10 @@ Docker is a platform for building, running, shipping applications in a consisten
 ## References
 
 ---
+
+
+
+[Back To The Top](#Django-React-in-Docker-Environment)
 
 ## License
 
@@ -73,6 +76,7 @@ copies or substantial portions of the Software.
 
 ## Author Info
 
-- [@Jakaria](www.facebook.com/jakaria.pust)
+- [@Jakaria](https://facebook.com/jakaria.pust)
+
 
 [Back To The Top](#Django-React-in-Docker-Environment)
