@@ -43,7 +43,7 @@ Make sure Python and pip are available on the system.
 
     ##### Activation
 
-    - In Linux: ``` venv/bin/activate ```  
+    - In Linux: ``` source venv/bin/activate ```  
     - In Windodws: ``` venv\Scripts\activate ```  
     
     ##### Install all packages
