@@ -1,4 +1,4 @@
-# Django, React in Docker Environment.
+# Django React in Docker Environment
 
 ![Project Image](project-image-url)
 
@@ -75,4 +75,4 @@ copies or substantial portions of the Software.
 
 - [@Jakaria](www.facebook.com/jakaria.pust)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Django-React-in-Docker-Environment)
