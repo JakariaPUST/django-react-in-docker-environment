@@ -1,6 +1,6 @@
 # Django React in Docker Environment
 
-![Project Image](project-image-url)
+![Project Image](https://miro.medium.com/max/1400/1*xFFecvB-joh7wBCh05NRsQ.png)
 
 > Product ordering Backend with docker, django, react.
 
@@ -34,9 +34,22 @@ Docker is a platform for building, running, shipping applications in a consisten
 ---
 
 ## How To Use
+Make sure Python and pip are available on the system.
 
 #### Installation
+- Virtualenvironment: 
+    - ``` pip install virtualenv ```
+    - ``` virtualenv venv ```
 
+    ##### Activation
+
+    - In Linux: ``` venv/bin/activate ```  
+    - In Windodws: ``` venv\Scripts\activate ```  
+    
+    ##### Install all packages
+
+    After activating virtual environment. 
+    Simply run ``` pip install -r requirements.txt ``` to install all the dependencies.
 
 
 #### API Reference
